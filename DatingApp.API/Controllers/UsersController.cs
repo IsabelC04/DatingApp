@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DatingApp.API.Controllers
 {
-    public class UsersController : BaseAPIController
+    public class UsersController : BaseApiController
     {
         private readonly DataContext _context;
 
